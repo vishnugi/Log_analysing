@@ -1,0 +1,8 @@
+No external dependencies required.
+This project uses Python standard library modules only :
+-argparse
+-csv
+-sqlite3
+-pathlib
+-sys.
+Compatible with Python 3.9+
